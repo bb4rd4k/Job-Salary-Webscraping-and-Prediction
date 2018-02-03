@@ -5,4 +5,4 @@ I collect salary information on data science jobs in Indeed.com using BeautifulS
 
 The notebook for this project can be best read at https://nbviewer.jupyter.org/github/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb.
 
-It can also be seen directly in Github at https://github.com/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb
+It can also be seen directly in Github at https://github.com/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb.
